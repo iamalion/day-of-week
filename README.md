@@ -1,29 +1,21 @@
-# (Application Name)
+# Day Of Week
 
-#### (Brief Description of Application)
+#### A JavaScript Application to assess the day of the week given a date
 
 #### By Lindsay Warr
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* 
 
 ## Description
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* 
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* negative years do not work as expected
 
 ## License
