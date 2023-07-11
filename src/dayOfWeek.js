@@ -1,7 +1,6 @@
 export default class DayOfWeek {
     constructor(date){
         this.date = new Date(date)
-        console.log(typeof this.date)
     }
 
     getWeekday(){
@@ -28,6 +27,7 @@ export default class DayOfWeek {
                 break;
             case 6:
                 dayString = "Saturday";
-        } return dayString
+        } 
+        return dayString
     }
 }

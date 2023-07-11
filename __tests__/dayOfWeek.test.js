@@ -29,8 +29,8 @@ describe('DayOfWeek', () => {
     });
 
     test ('should create a day of week object with a date', () => {
-        const dayOfWeek = new DayOfWeek("April 21, -271821");
-        expect(dayOfWeek.date.getDate()).toBe(21);
+        const dayOfWeek = new DayOfWeek("April 20, -271821");
+        expect(dayOfWeek.date.getDate()).toBe(20);
         expect(dayOfWeek.date.getMonth()).toBe(3);
         expect(dayOfWeek.date.getFullYear()).toBe(271821);
 
